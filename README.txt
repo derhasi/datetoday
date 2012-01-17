@@ -1,5 +1,8 @@
 //$Id$
 
+The module moved to http://drupal.org/sandbox/derhasi/1407584 .
+
+
 This module provides an additional formatter for date fields. This formatter
 is capable of providing Date strings like "yesterday - 18:00" or
 "tomorrow - Friday, 9:00".
